@@ -8,7 +8,21 @@ h1, h2, h3 {
 }
 
 #intro {
-    float: center;
     color: white;
     font-size: 20px;
+}
+
+#samoyedone {
+    border-radius: 15%;
+    width: 25%;
+    height: 25%;
+    margin: 5px;
+}
+
+#samoyedtwo {
+    border-radius: 15%;
+    float: right;
+    width: 25%;
+    height: 25%;
+    margin: 5px;
 }
